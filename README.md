@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benjamindexant" alt="benjamindexant" /></a> </p>
 
-- 🔭 I’m currently working for [Make-it](https://www.make-it.fr/)
+- 🔭 I’m currently working for [Davidson](https://www.davidson.fr/)
 
-- 🌱 I’m currently learning **Prisma, TypeGraphQL, Cypress & React-Native**
+- 🌱 I’m currently learning **AWS services ( CDK, Lambda, Cloudformation, AppSync, Aurora Serverless** 
 
-- 📫 How to reach me **benjamin.dexant@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/benjamin-dexant/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
