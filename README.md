@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">A young JS/TS Developer</h3>
+<h3 align="center">JS/TS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjamindexant&label=Profile%20views&color=0e75b6&style=flat" alt="benjamindexant" /> </p>
 
